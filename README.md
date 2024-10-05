@@ -8,7 +8,7 @@ Feel free to report any issues here.
 Will attempt to update as new characters get released, leaked, or teased.
 
 ## Related Sorters
-More sorters here [here](https://github.com/execfera/charasort/wiki)!
+More sorters [here](https://github.com/execfera/charasort/wiki)!
 
 ## Credits
  * [charasort](https://github.com/execfera/charasort) by execfera, for the original fork/character sorter.
@@ -17,7 +17,7 @@ More sorters here [here](https://github.com/execfera/charasort/wiki)!
  * [lz-string](https://github.com/pieroxy/lz-string) for shareable link compression.
  * [SpinKit](http://tobiasahlin.com/spinkit/) for loading animation.
  * [thsort](http://mainyan.sakura.ne.jp/thsort.html) for the original inspiration.
-
+ 
 ## Known Issues
 
  * Does not work with CloudFlare's Rocket Loader.
